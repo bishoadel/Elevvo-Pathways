@@ -9,7 +9,7 @@ The goal of this task is to build a machine learning model that predicts student
 ---
 
 ## 📊 Dataset
-**Source:** [Student Performance Factors — Kaggle](https://www.kaggle.com/datasets)  
+**Source:** [Student Performance Factors — Kaggle](https://www.kaggle.com/datasets/lainguyn123/student-performance-factors)  
 Each record contains study-related and lifestyle factors affecting student performance.
 
 ---
@@ -48,20 +48,19 @@ Each record contains study-related and lifestyle factors affecting student perfo
 - scikit-learn
 
 ---
-
 ## 📷 Visualizations
 
 **Distribution of Exam Scores**  
-![Distribution of Exam Scores](./images/Distribution%20of%20Exam%20Scores.png)
+![Distribution of Exam Scores](./images/Distribution_of_Exam_Scores.png)
 
 **Hours Studied vs Exam Scores**  
-![Hours Studied Vs Exam Scores](./images/Hours%20Studied%20Vs%20Exam%20Scores.png)
+![Hours Studied Vs Exam Scores](./images/Hours_Studied_Vs_Exam_Scores.png)
 
 **Correlation Matrix**  
-![Correlation Matrix](./images/Correlation%20Matrix.png)
+![Correlation Matrix](./images/Correlation_Matrix.png)
 
 **Actual vs Predicted Exam Scores (Line Plot)**  
-![Actual vs Predicted Exam Scores](./images/Actual%20vs%20Predicted%20Exam%20Scores.png)
+![Actual vs Predicted Exam Scores](./images/Actual_vs_Predicted_Exam_Scores.png)
 
 **Actual vs Predicted Exam Scores (Scatter Plot)**  
 ![Actual vs Predicted Scatter](./images/actual_vs_predicted_scatter.png)
